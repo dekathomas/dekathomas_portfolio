@@ -91,6 +91,7 @@ cards.forEach(card => {
 
 	card.addEventListener('mouseover', () => {
 		background.style.left = `${card.offsetLeft}px`;
+		background.style.top = `${card.offsetTop}px`;
 		background.style.opacity = '1';
 		background.style.background = `url(img/${(card.classList.value).slice(5)}.png)`;
 		background.style.backgroundSize = 'cover';
