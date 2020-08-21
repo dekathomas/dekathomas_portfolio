@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320.715" height="470.776" viewBox="0 0 320.715 470.776">
-  <defs>
-    <linearGradient id="linear-gradient" x2="0.426" y2="2.054" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#ffd400"/>
-      <stop offset="1" stop-color="#ffe25b"/>
-    </linearGradient>
-  </defs>
-  <path id="Path_5" data-name="Path 5" d="M0-207.617V-451.625s123.252-43.089,197.145,0c38.361,22.369,69.538,50.265,76.385,113.389S175-273.754,197.145-193.953,320.715,0,320.715,0H0" transform="translate(320.715) rotate(180)" fill="url(#linear-gradient)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320.715" height="470.776" viewBox="0 0 320.715 470.776"><defs><linearGradient id="linear-gradient" x2=".426" y2="2.054" gradientUnits="objectBoundingBox"><stop offset="0" stop-color="#ffd400"/><stop offset="1" stop-color="#ffe25b"/></linearGradient></defs><path id="Path_5" fill="url(#linear-gradient)" d="M0-207.617V-451.625s123.252-43.089,197.145,0c38.361,22.369,69.538,50.265,76.385,113.389S175-273.754,197.145-193.953,320.715,0,320.715,0H0" data-name="Path 5" transform="translate(320.715) rotate(180)"/></svg>
